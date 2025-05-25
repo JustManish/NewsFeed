@@ -21,4 +21,4 @@ A simple and clean iOS app built using **SwiftUI + MVVM** that fetches and displ
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/news-feed-app.git
+git clone https://github.com/JustManish/NewsFeed.git
