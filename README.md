@@ -12,7 +12,6 @@ A simple and clean iOS app built using **SwiftUI + MVVM** that fetches and displ
 - 🔄 Infinite scrolling with pagination
 - 🔁 Toggle between list and grid views
 - 🖼 Async image loading
-- ⚡ Lightweight and responsive
 
 ---
 
